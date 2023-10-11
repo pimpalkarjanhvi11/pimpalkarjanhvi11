@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Analytics_amp_Data_Science.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Images%20%26%20Logos/Analytics_amp_Data_Science.gif">
 
 - 👩🏻‍💻 Ex- Packed Application Development Associate at **Accenture**
 
@@ -28,10 +28,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
-  <img src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/assets/145299632/d8b65335-4812-4991-b9dd-046f7dae44d6" alt="SAP" width="40" height="40"/>
+  <img src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Images%20%26%20Logos/sap-3%20(1).svg" alt="SAP" width="40" height="40"/>
 </a>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a 
- href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/assets/145299632/2961117c-54c3-4aa7-bcb7-9717347608c8" alt="Tableu" width="60" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Images%20%26%20Logos/tableau-logo.svg" alt="Tableu" width="60" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
   <img src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Images%20%26%20Logos/excel-4.svg" alt="Excel" width="40" height="40"/>
 </a>
