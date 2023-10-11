@@ -5,8 +5,8 @@
 
 I am a student at University of Wisconsin Madison for Master of Science in Information Science Program - Data Analystics Concentration.
 
-- 💻 Ex- Packed Application Development Associate at Accenture.
-- 👩🏻‍💻 Interned at the Sparks Foundation and Suven Consultants and Pvt Ltd.
+#- 💻 Ex- Packed Application Development Associate at Accenture.
+#- 👩🏻‍💻 Interned at the Sparks Foundation and Suven Consultants and Pvt Ltd.
 
 
  <p align="center">
