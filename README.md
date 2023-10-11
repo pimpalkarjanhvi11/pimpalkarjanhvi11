@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.sap.com/cmp/dg/na-corporate-brand/index.html?campaigncode=crm-ya23-int-2034165&source=ppc-1na-googleads--71700000115040457-58700008561020697-x_x-x-x-x&gclid=Cj0KCQjw7JOpBhCfARIsAL3bobejFSZpG9TBYIso7HFSkzrIDDAi4RwZZu66uz7EkfTtNrU2Xm6BTbUaApPxEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer">
   <img src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Images%20%26%20Logos/sap-3%20(1).svg" alt="SAP" width="40" height="40"/>
 </a>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a 
