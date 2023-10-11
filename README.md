@@ -2,6 +2,7 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pimpalkarjanhvi11&label=Profile%20views&color=0e75b6&style=flat" alt="pimpalkarjanhvi11" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/pimpalkarjanhvi11/pimpalkarjanhvi11/blob/main/Analytics_amp_Data_Science.gif">
 
 - 👩🏻‍💻 Ex- Packed Application Development Associate at **Accenture**
 
@@ -16,7 +17,7 @@
 - 📫 How to reach me **pimpalkar@wisc.edu**
 
 - 🌸 Fun fact **I love Baking!**
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevsatva.com%2F&psig=AOvVaw2uC8ci5OE-4Q5OY2av_eG9&ust=1697076932403000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD3tK_27IEDFQAAAAAdAAAAABAg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevsatva.com%2F&psig=AOvVaw2uC8ci5OE-">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
