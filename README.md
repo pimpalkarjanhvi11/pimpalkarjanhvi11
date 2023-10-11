@@ -11,7 +11,7 @@ I am a student at University of Wisconsin Madison for Master of Science in Infor
 
  <p align="center">
  <a href="https://www.linkedin.com/in/janhvi-pimpalkar-8171a31b3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pimpalkarjanhvi11"/>
  </a>
 
  <a href="https://pimpalkar.wixsite.com/janhvi-pimpalkar-por" target="_blank">
